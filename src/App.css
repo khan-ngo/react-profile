@@ -272,9 +272,21 @@ a {
 }
 
 /* Tablet */
-@media screen and (max-width: 770px) {
+@media screen and (max-width: 800px) {
+
   .left {
     height: 100%;
+  }
+
+  .left,
+  .right {
+    display: block;
+    width: 100%;
+  }
+
+  .left {
+    position: static;
+
   }
 
   .left .info .name {
@@ -295,18 +307,7 @@ a {
   }
 }
 
-@media screen and (max-width: 700px) {
-
-  .left,
-  .right {
-    display: block;
-    width: 100%;
-  }
-
-  .left {
-    position: static;
-  }
-}
+@media screen and (max-width: 750px) {}
 
 /* Mobile */
 
