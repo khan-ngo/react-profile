@@ -9,7 +9,7 @@ Let me know what you think!
 - `npm start` to start a dev server
 
 ## What I used
-- [Visual Studio Code](https://code.visualstudio.com/) my editor of choice
+- [Visual Studio Code](https://code.visualstudio.com/) is my editor of choice
 - [Github Pages](https://pages.github.com/) for hosting on github
 - [Additional help to deploy React App to GitHub](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) 
 
