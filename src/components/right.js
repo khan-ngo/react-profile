@@ -1,0 +1,349 @@
+import React, { Component } from 'react';
+
+class Right extends Component {
+	render() {
+		return (
+			<div className="right">
+				<div className="right-inner">
+					<div className="introduction">
+						<h4>Intro</h4>
+						<div className="content">
+							<p className="intro-p">
+								I am an IT-Professional with over 20 years of experience in Infratructure, Systems, 
+								and Application Support for highly visible, public facing Enterprise 
+								applications in the Financial, Insurance, and E-commerce industries.
+							</p>
+							<p className="intro-p">									
+							I have the skills, training ,and experience needed to help develop, support, and maintain software programs.
+							</p>
+
+							<p className="intro-p job-plz">
+								{this.props.myGoal}
+							</p>
+						</div>
+					</div>
+					<div className="skills">
+						<h4 className="category">Skills</h4>
+						<div className="content">
+							<div className="skill-category">
+								<strong>Languages: &nbsp;</strong>
+								<span>HTML/CSS, JavaScript, Java, SQL</span>
+							</div>
+							<div className="skill-category">
+								<strong>Libraries &amp; Frameworks: &nbsp;</strong>
+								<span>
+									Spring MVC, Spring Boot, Java Persistence API, Eclipse Link, Maven, jQuery, Bootstrap, MongoDB, PostgreSQL, MariaDB, Express, React
+								</span>
+							</div>
+							<div className="skill-category">
+								<strong>Tools: &nbsp;</strong>
+								<span>Git &amp; Github, Bitbucket, Jira, Confluence, Bamboo, Command Line Interface, Postman, JMeter, AppDynamics, Splunk</span>
+							</div>
+						</div>
+					</div>
+					{/* Education Section */}
+					<div className="education">
+						<h4 className="category">Education</h4>
+						<div className="content">
+							<div className="edu-institution">
+								<a href="https://www.platformbyps.org/boston/application-developer" rel="noopener noreferrer" target="_blank">
+									Platform by Per Scholas
+								</a>
+							</div>
+							<div className="edu-program">Java Full-Stack Web Developer
+							</div>
+							<div className="edu-description">
+								<strong>Description:</strong> Training covered exploration on how to be efficient in Agile-Scrum project methodologies using Jira. 
+								Managed databases requiring SQL and learned how to install, configure, connect, query with MariaDB. 
+								Additional topics included collections, basic I/O, JDBC, JPA, and Spring MVC.
+							</div>
+
+							<div className="edu-institution">
+								<a href="https://generalassemb.ly/blog/tag/web-development-immersive" rel="noopener noreferrer" target="_blank">
+									General Assembly
+								</a>
+							</div>
+							<div className="edu-program">
+									Web Development Immersive (WDI) Program
+							</div>
+							<div className="edu-description">
+								<strong>Description:</strong> Full Stack web development program focusing on ES6 JavaScript, 
+								Bootstrap, JSON, jQuery, HTML5, CSS3, Ruby, Rails, Node, Express, Ember, React.js, MongoDB, Postgress, 
+								SQL, GIT, problem-solving, planning, modeling, and maintaining applications with client-API architectures, 
+								as well as software engineering principles including design patterns, sorting algorithms, big O notation, 
+								recursion, and data structures from linked lists to binary trees. This program requires work in teams and 
+								independently to build functioning sites that solve real- world business problems.
+							</div>
+
+							
+						</div>
+						
+						
+					</div>
+					{/* Experience Section */}
+					<div className="experience">
+						<h4 className="category">Experience</h4>
+						<div className="content">
+							<div className="exp-item">
+								<div className="job">
+									<a className="company" href="https://www.tjx.com" rel="noopener noreferrer" target="_blank">
+										TJX Companies
+									</a>
+									<div className="duration">Feb. 2020 &mdash; Present</div>
+								</div>
+								<div className="title">Software Engineer Co-op</div>
+								<ul className="description">
+									<li>
+										Support, monitor, and maintain critical web-functionality of 24/7 e-Commerce sites
+									</li>
+									<li>
+										Leverage various Application Performance Management (APM) and web analytics tools
+									</li>
+								</ul>
+							</div>
+							<div className="exp-item">
+								<div className="job">
+									<a className="company" href="https://www.leisurepassgroup.com" rel="noopener noreferrer" target="_blank">
+										Leisure Pass Group
+									</a>
+									<div className="duration">Sept. 2019 &mdash; Feb. 2020</div>
+								</div>
+								<div className="title">Software Application Support Engineer / Java developer</div>
+								<ul className="description">
+									<li>
+										Ensure durability, reliability, and efficiency of all applications
+									</li>
+									<li>
+										Work and collaborate with all stakeholders across the company
+									</li>
+									<li>
+										Reproduce customer bug reports for detailed troubleshooting and analysis
+									</li>
+									<li>
+										Identify and help implement opportunities for automation and operational efficiencies
+									</li>
+									<li>
+										Stay current with application updates and develop deep product expertise
+									</li>
+								</ul>
+							</div>
+
+							<div className="exp-item">
+								<div className="job">
+									<a className="company" href="https://www.vestmark.com" rel="noopener noreferrer" target="_blank">
+										Vestmark
+									</a>
+									<div className="duration">June 2018 &mdash; Sept. 2019</div>
+								</div>
+								<div className="title">Managed Services Team: Systems Engineer</div>
+								<ul className="description">
+									<li>
+										Monitor, troubleshoot, and triage system health and database backups related issues
+									</li>
+									<li>
+										Troubleshoot issues across the stack (hardware, network, applications, database, storage)
+									</li>
+									<li>
+										Implemented production changes while adhering to standardized change control protocols
+									</li>
+									<li>
+										Utilized APM tools to monitor, track trends, and proposed solutions to recurring issues
+									</li>
+								</ul>
+							</div>
+
+							<div className="exp-item">
+								<div className="job">
+									<a className="company" href="https://www.libertymutual.com" rel="noopener noreferrer" target="_blank">
+									Liberty Mutual Insurance Group  (2011 – 2018)
+									</a>
+								</div>
+								<div className="duration">Sept. 2019 &mdash; Feb. 2020</div>
+								<div className="title">Software Developer</div>
+								<ul className="description">
+									<li>
+										Successfully completed Web front-end training program with General Assembly in Boston, MA
+									</li>
+									<li>
+										Contributed to efforts to port code from Dojo to React
+									</li>
+									<li>
+										Participated in efforts to transform the renewal experience for personal insurance policies
+									</li>
+								</ul>
+							</div>
+
+							<div className="exp-item">
+								<div className="job">
+									<div className="duration">Jan. 2013 &mdash; Oct. 2016</div>
+								</div>
+								<div className="title">Performance Team: Senior Software Systems Engineer</div>
+								<ul className="description">
+									<li>
+										Designed clear, comprehensive system, technical and infrastructure solutions in the monitoring space, 
+										that supported current and future direction
+									</li>
+									<li>
+										Reviewed major infrastructure designs from a monitoring perspective to ensure consistency, maintainability
+										and flexibility with respect to overall system, technical and product architectures within a market
+									</li>
+									<li>
+										Worked effectively with senior systems engineers, developers, software owners (IT and business customers),
+										production support teams, project managers, and senior managers
+									</li>
+								</ul>
+							</div>
+
+							<div className="exp-item">
+								<div className="job">
+									<div className="duration">Oct. 2011 &mdash; Jan. 2013</div>
+								</div>
+								<div className="title">Performance Team: Senior Software Systems Engineer</div>
+								<ul className="description">
+									<li>
+										Partnered with application development teams to build and configure environments
+									</li>
+									<li>
+										Provided audit and compliance support for all middleware environments
+									</li>
+									<li>
+										Worked from specifications to develop or modify moderately complex middleware products
+									</li>
+									<li>
+										Participated in 24x7 on-call support working closely with other baseline teams to resolve issues
+									</li>
+									<li>
+										Performed related duties, such as documentation and metrics, as requested or assigned
+									</li>
+								</ul>
+							</div>
+
+							<div className="exp-item">
+								<div className="job">
+									<a className="company" href="https://www.statestreet.com/" rel="noopener noreferrer" target="_blank">
+									State Street Corporation (2000 - 2011)
+									</a>
+								</div>
+								<div className="duration">Nov. 2008 &mdash; Oct. 2011</div>
+								<div className="title">Application Support | Junior Database Administrator</div>
+								<ul className="description">
+									<li>
+										Maintained, monitored, and supported UNIX/Linux Apps with Oracle Database servers
+									</li>
+									<li>
+										Deployment manager for application and database releases and upgrades
+									</li>
+									<li>
+										Project manager for system maintenance and upgrades
+									</li>
+								</ul>
+							</div>
+
+							<div className="exp-item">
+								<div className="job">
+									<div className="duration">Sept. 2007 &mdash; Nov. 2008</div>
+								</div>
+								<div className="title">Trade Application Engineer</div>
+								<ul className="description">
+									<li>
+										Supported and maintained trading applications and infrastructure
+									</li>
+									<li>
+										Monitored electronic trade and FIX activities for immediate mitigation and resolution
+									</li>
+									<li>
+										Worked with Trading Desk, Market, and Middle Office to resolve any trade issues
+									</li>
+								</ul>
+							</div>
+
+							<div className="exp-item">
+								<div className="job">
+									<div className="duration">Sept. 2004 &mdash; Sept. 2007</div>
+								</div>
+								<div className="title">Data Center Operations | Night Shift Manager</div>
+								<ul className="description">
+									<li>
+										Technical Support Manager for the night shift Open Systems support in 24x7 environment
+									</li>
+									<li>
+										Provided technical support to administrators, developers, as well as internal and external clients
+									</li>
+									<li>
+										Responsible for staff selection, training and development, and performance reviews
+									</li>
+									<li>
+										Maintained staffing and resource management for major datacenters in Massachusetts
+									</li>
+									<li>
+										Problem management, post mortem analysis, and root cause analysis
+									</li>
+								</ul>
+							</div>
+
+							<div className="exp-item">
+								<div className="job">
+									<div className="duration">Aug. 2003 &mdash; Sept. 2004</div>
+								</div>
+								<div className="title">Systems Administrator | Deployment Manager</div>
+								<ul className="description">
+									<li>
+										Deployment Manager for Digital Report Library using IBM Rational ClearCase / ClearQuest MultiSite
+									</li>
+									<li>
+										Provided third tier support for real-time data delivery application
+									</li>
+									<li>
+										Business Continuity Manager (BCM) representing DRL development team
+									</li>
+								</ul>
+							</div>
+
+							<div className="exp-item">
+								<div className="job">
+									<div className="duration">June 2001 &mdash; Aug. 2003</div>
+								</div>
+								<div className="title">Unix/NT Systems Administrator</div>
+								<ul className="description">
+									<li>
+										Provided third tier support for an enterprise level online data delivery application in 24x7 environment
+									</li>
+									<li>
+										Supported NT/Unix servers, web servers, Crystal Reporting application
+									</li>
+									<li>
+										Ensured all service level agreements are met for all global clients
+									</li>
+									<li>
+										Created and maintained shell and Perl scripts and AutoSys jobs for automation
+									</li>
+								</ul>
+							</div>
+
+							<div className="exp-item">
+								<div className="job">
+									<div className="duration">April 2000 &mdash; June 2001</div>
+								</div>
+								<div className="title">Network Operating Center (NOC) | Communications Analyst</div>
+								<ul className="description">
+									<li>
+										Supported over 6,000 Solaris, AIX, HP UNIX/NT enterprise servers and applications world wide
+									</li>
+									<li>
+										Monitored system health and application functions
+									</li>
+									<li>
+										Active involvement in problem diagnosis, escalation, and resolution
+									</li>
+								</ul>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		);
+	}
+}
+
+export default Right;

@@ -4,14 +4,16 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+const DATA = {
+	name: "Hi, I'm Khanh",
+	profession: 'Java Full-Stack Web Developer',
+	linkedinURL: 'https://www.linkedin.com/in/khanh-ngo-8863193',
+	githubURL: 'https://github.com/khan-ngo',
+	twitterURL: 'https://twitter.com/khan_ngo',
+	instaURL: 'https://www.instagram.com/kqngo/',
+	myGoal: "My goal is to pivot my career to full time software development at an established company."
+};
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
+ReactDOM.render(<App profileData={DATA} />, document.getElementById('root'));
+
 serviceWorker.unregister();
