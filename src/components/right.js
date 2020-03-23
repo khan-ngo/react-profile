@@ -43,7 +43,7 @@ class Right extends Component {
 					</div>
 					{/* Education Section */}
 					<div className="education">
-						<h4 className="category">Education</h4>
+						<h4 className="category">Training</h4>
 						<div className="content">
 							<div className="edu-institution">
 								<a href="https://www.platformbyps.org/boston/application-developer" rel="noopener noreferrer" target="_blank">
