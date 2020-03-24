@@ -27,21 +27,20 @@ class Right extends Component {
             <div className="content">
               <div className="skill-category">
                 <strong>Languages: &nbsp;</strong>
-                <span>HTML/CSS, JavaScript, Java, SQL</span>
+                <span>Java 8, HTML/CSS, JavaScript</span>
               </div>
               <div className="skill-category">
                 <strong>Libraries &amp; Frameworks: &nbsp;</strong>
                 <span>
-                  Spring MVC, Spring Boot, Java Persistence API, Eclipse Link,
-                  Maven, jQuery, Bootstrap, MongoDB, PostgreSQL, MariaDB,
-                  Express, React
+                  Spring MVC, Spring Boot, JPA, Maven, jQuery, Bootstrap,
+                  MongoDB, PostgreSQL, MariaDB, Express, ReactJS
                 </span>
               </div>
               <div className="skill-category">
                 <strong>Tools: &nbsp;</strong>
                 <span>
-                  Git &amp; Github, Bitbucket, Jira, Confluence, Bamboo, Command
-                  Line Interface, Postman, JMeter, AppDynamics, Splunk
+                  Git, GitHub, bitbucket, Jira, Confluence, Bamboo, CLI,
+                  Postman, JMeter, AppDynamics, Splunk, Unix/Linux, bash, Agile
                 </span>
               </div>
             </div>
@@ -121,6 +120,9 @@ class Right extends Component {
                     Leverage various Application Performance Management (APM)
                     and web analytics tools
                   </li>
+                  <li>
+                    Gained familiarity with Oracle ATG e-commerce platform
+                  </li>
                 </ul>
               </div>
               <div className="exp-item">
@@ -140,24 +142,29 @@ class Right extends Component {
                 </div>
                 <ul className="description">
                   <li>
-                    Ensure durability, reliability, and efficiency of all
-                    applications
+                    Worked with internal and external partners to ensured
+                    durability, reliability, and efficiency of all applications
                   </li>
                   <li>
-                    Work and collaborate with all stakeholders across the
-                    company
-                  </li>
-                  <li>
-                    Reproduce customer bug reports for detailed troubleshooting
-                    and analysis
-                  </li>
-                  <li>
-                    Identify and help implement opportunities for automation and
+                    Identified and implemented opportunities for automation and
                     operational efficiencies
-                  </li>
-                  <li>
-                    Stay current with application updates and develop deep
-                    product expertise
+                    <li>
+                      Contributed to code updates to GitHub Java backend as well
+                      as React frontend repositories
+                    </li>
+                    <li> Reviewed Heap dumps for performance tuning</li>
+                    <li>
+                      Managed ecommerce resources using Elastic Path e-commerce
+                      platform
+                    </li>
+                    <li>
+                      Brought products to 17 new cities for one of LPG’s largest
+                      partner
+                    </li>
+                    <li>
+                      Integrated products to WeChat platform as the technical
+                      lead
+                    </li>
                   </li>
                 </ul>
               </div>
@@ -227,11 +234,9 @@ class Right extends Component {
 
               <div className="exp-item">
                 <div className="job">
-                  <div className="duration">Jan. 2013 &mdash; Oct. 2016</div>
+                  <div className="duration">Oct. 2011 &mdash; Oct. 2016</div>
                 </div>
-                <div className="title">
-                  Performance Team: Senior Software Systems Engineer
-                </div>
+                <div className="title">Senior Software Systems Engineer</div>
                 <ul className="description">
                   <li>
                     Designed clear, comprehensive system, technical and
@@ -249,37 +254,6 @@ class Right extends Component {
                     developers, software owners (IT and business customers),
                     production support teams, project managers, and senior
                     managers
-                  </li>
-                </ul>
-              </div>
-
-              <div className="exp-item">
-                <div className="job">
-                  <div className="duration">Oct. 2011 &mdash; Jan. 2013</div>
-                </div>
-                <div className="title">
-                  Performance Team: Senior Software Systems Engineer
-                </div>
-                <ul className="description">
-                  <li>
-                    Partnered with application development teams to build and
-                    configure environments
-                  </li>
-                  <li>
-                    Provided audit and compliance support for all middleware
-                    environments
-                  </li>
-                  <li>
-                    Worked from specifications to develop or modify moderately
-                    complex middleware products
-                  </li>
-                  <li>
-                    Participated in 24x7 on-call support working closely with
-                    other baseline teams to resolve issues
-                  </li>
-                  <li>
-                    Performed related duties, such as documentation and metrics,
-                    as requested or assigned
                   </li>
                 </ul>
               </div>
@@ -342,10 +316,6 @@ class Right extends Component {
                   <li>
                     Technical Support Manager for the night shift Open Systems
                     support in 24x7 environment
-                  </li>
-                  <li>
-                    Provided technical support to administrators, developers, as
-                    well as internal and external clients
                   </li>
                   <li>
                     Responsible for staff selection, training and development,
