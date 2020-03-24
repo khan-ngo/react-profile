@@ -108,9 +108,11 @@ class Right extends Component {
                   >
                     TJX Companies
                   </a>
-                  <div className="duration">Feb. 2020 &mdash; Present</div>
+                  <div className="duration">Feb. 2020 &mdash; March 2020</div>
                 </div>
-                <div className="title">Software Engineer Co-op</div>
+                <div className="title">
+                  Software Engineer Co-op (Contractor)
+                </div>
                 <ul className="description">
                   <li>
                     Support, monitor, and maintain critical web-functionality of
@@ -215,7 +217,7 @@ class Right extends Component {
                     Liberty Mutual Insurance Group (2011 – 2018)
                   </a>
                 </div>
-                <div className="duration">Sept. 2019 &mdash; Feb. 2020</div>
+                <div className="duration">March 2017 &mdash; June 2018</div>
                 <div className="title">Software Developer</div>
                 <ul className="description">
                   <li>
@@ -234,9 +236,9 @@ class Right extends Component {
 
               <div className="exp-item">
                 <div className="job">
-                  <div className="duration">Oct. 2011 &mdash; Oct. 2016</div>
+                  <div className="duration">Oct. 2011 &mdash; March 2017</div>
                 </div>
-                <div className="title">Senior Software Systems Engineer</div>
+                <div className="title">Senior Software / Systems Engineer</div>
                 <ul className="description">
                   <li>
                     Designed clear, comprehensive system, technical and
