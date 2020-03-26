@@ -148,11 +148,19 @@ class Right extends Component {
                     durability, reliability, and efficiency of all applications
                   </li>
                   <li>
+                    Technical contact for integration and onboarding our
+                    partners to access company's APIs
+                  </li>
+                  <li>
                     Identified and implemented opportunities for automation and
                     operational efficiencies
                     <li>
                       Contributed to code updates to GitHub Java backend as well
                       as React frontend repositories
+                    </li>
+                    <li>
+                      Performed QA and regression testing using postman and
+                      JMeter
                     </li>
                     <li> Reviewed Heap dumps for performance tuning</li>
                     <li>
