@@ -139,7 +139,7 @@ a {
 }
 
 .right h4 {
-  position: sticky;
+  position: relative;
   top: 0px;
   width: 20%;
   margin: 0 0 20px;
@@ -152,13 +152,20 @@ a {
   -webkit-text-fill-color: transparent;
 }
 
+@supports (position: sticky) {
+  .right h4 {
+    position: sticky;
+    top: 0px;
+  }
+}
+
 .right ul {
   padding: 0;
   margin: 0;
 }
 
 .right .content {
-  width: 70%;
+  width: 75%;
   padding: 0;
   margin: 0 0 20px;
   font-weight: 300;
@@ -257,10 +264,7 @@ a {
 }
 
 
-
-
 @media screen and (max-width: 1000px) {
-
   .left .info .name {
     font-size: 35px;
     margin: 10px;
@@ -270,12 +274,10 @@ a {
     font-size: 12px;
   }
 
-
 }
 
 /* Tablet */
 @media screen and (max-width: 800px) {
-
   .left {
     height: 100%;
   }
@@ -288,7 +290,6 @@ a {
 
   .left {
     position: static;
-
   }
 
   .left .info .name {
@@ -315,7 +316,6 @@ a {
   .left-inner {
     min-height: 15em;
   }
-
 
   .left-inner,
   .right-inner {
