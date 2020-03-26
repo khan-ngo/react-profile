@@ -123,7 +123,8 @@ class Right extends Component {
                     and web analytics tools
                   </li>
                   <li>
-                    Gained familiarity with Oracle ATG e-commerce platform
+                    Gained valuable experience with Oracle ATG, Endeca, OMS, ESB
+                    e-Commerce platform
                   </li>
                 </ul>
               </div>
