@@ -19,7 +19,7 @@ class Right extends Component {
                 develop, support, and maintain software programs.
               </p>
 
-              <p className="intro-p job-plz">{this.props.myGoal}</p>
+              {/* <p className="intro-p job-plz">{this.props.myGoal}</p> */}
             </div>
           </div>
           <div className="skills">
