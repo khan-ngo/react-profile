@@ -176,6 +176,8 @@ class Right extends Component {
                       Integrated products to WeChat platform as the technical
                       lead
                     </li>
+                    Assisted in CI/CD implementation of CirleCI and kubernetes
+                    onto AWS pipelines
                   </li>
                 </ul>
               </div>
