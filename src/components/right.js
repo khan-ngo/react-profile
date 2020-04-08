@@ -259,7 +259,9 @@ class Right extends Component {
                 <ul className="description">
                   <li>
                     Produced clean and reusable software in fail-fast, rapid
-                    iteration, greenfield, Agile development environment ●
+                    iteration, greenfield, Agile development environment
+                  </li>
+                  <li>
                     Obtained mastery of Git source control management system for
                     repositories hosted on GitHub and bitbucket
                   </li>
