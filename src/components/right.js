@@ -119,8 +119,21 @@ class Right extends Component {
                     24/7 e-Commerce sites
                   </li>
                   <li>
-                    Leverage various Application Performance Management (APM)
-                    and web analytics tools
+                    Initiated GitFlow branching/merging strategy to improve
+                    speed, efficiency, and scalability of the build process
+                  </li>
+                  <li>
+                    Collaborated with Rackspace to review Jenkins pipeline to
+                    streamline the Continuous Integration (CI) practices
+                  </li>
+                  <li>
+                    Supported the software development life cycle and Agile
+                    development methodologies
+                  </li>
+                  <li>
+                    Leveraged Application Performance Management (APM) and web
+                    analytics tools such as Splunk, AppDynamics, Google
+                    Analytics, and Omniture / Adobe Analytics
                   </li>
                   <li>
                     Gained valuable experience with Oracle ATG, Endeca, OMS, ESB
@@ -145,39 +158,44 @@ class Right extends Component {
                 </div>
                 <ul className="description">
                   <li>
-                    Worked with internal and external partners to ensured
-                    durability, reliability, and efficiency of all applications
+                    Built and Maintained Continuous Integration with CircleCI
+                    and Bamboo to build, test, and deployment
                   </li>
                   <li>
-                    Technical contact for integration and onboarding our
-                    partners to access company's APIs
+                    Managed, and performed deployment of software components
+                    into lower and Production environments
                   </li>
                   <li>
-                    Identified and implemented opportunities for automation and
-                    operational efficiencies
-                    <li>
-                      Contributed to code updates to GitHub Java backend as well
-                      as React frontend repositories
-                    </li>
-                    <li>
-                      Performed QA and regression testing using postman and
-                      JMeter
-                    </li>
-                    <li> Reviewed Heap dumps for performance tuning</li>
-                    <li>
-                      Managed ecommerce resources using Elastic Path e-commerce
-                      platform
-                    </li>
-                    <li>
-                      Brought products to 17 new cities for one of LPG’s largest
-                      partner
-                    </li>
-                    <li>
-                      Integrated products to WeChat platform as the technical
-                      lead
-                    </li>
-                    Assisted in CI/CD implementation of CirleCI and kubernetes
-                    onto AWS pipelines
+                    Troubleshoot compile and build failures, and facilitated
+                    resolution
+                  </li>
+                  <li>
+                    Proven ability to excel working within in 2-weeks sprint
+                    iterative agile development environment
+                  </li>
+                  <li>
+                    Acquired AWS certification and increased working knowledge
+                    with EC2, ELB, S3, and RDS
+                  </li>
+                  <li>
+                    Utilized JUnit for unit testing, IntelliJ for static
+                    analysis, and Clover for code-coverage tools for Java
+                  </li>
+                  <li>
+                    Developed React and Java code using Git with repositories in
+                    GitHub
+                  </li>
+                  <li>
+                    Heavily use SQL against MySQL and NoSQL for MongoDB to
+                    manage app and troubleshoot issues
+                  </li>
+                  <li>
+                    Implemented API test automation test automation for Postman,
+                    JMeter
+                  </li>
+                  <li>
+                    Worked to continuously identified opportunities for
+                    automation and operational efficiencies
                   </li>
                 </ul>
               </div>
@@ -214,6 +232,14 @@ class Right extends Component {
                     Utilized APM tools to monitor, track trends, and proposed
                     solutions to recurring issues
                   </li>
+                  <li>
+                    Monitor and resolve any nightly MS SQL databases backups
+                    issues
+                  </li>
+                  <li>
+                    Developed automation scripts using PowerShell for internal
+                    monitoring and alerting
+                  </li>
                 </ul>
               </div>
 
@@ -232,15 +258,22 @@ class Right extends Component {
                 <div className="title">Software Developer</div>
                 <ul className="description">
                   <li>
-                    Successfully completed Web front-end training program with
-                    General Assembly in Boston, MA
+                    Produced clean and reusable software in fail-fast, rapid
+                    iteration, greenfield, Agile development environment ●
+                    Obtained mastery of Git source control management system for
+                    repositories hosted on GitHub and bitbucket
                   </li>
                   <li>
-                    Contributed to efforts to port code from Dojo to React
+                    Utilized Selenium 2.0 WebDriver, Jest, Enzyme, and Cucumber
+                    for functional test automation
                   </li>
                   <li>
-                    Participated in efforts to transform the renewal experience
-                    for personal insurance policies
+                    Created and maintained continuous integration and continuous
+                    delivery (CI/CD) process documentation
+                  </li>
+                  <li>
+                    Achieved success in transforming the renewal experience for
+                    the personal insurance market
                   </li>
                 </ul>
               </div>
@@ -262,11 +295,18 @@ class Right extends Component {
                     flexibility with respect to overall system, technical and
                     product architectures within a market
                   </li>
+
                   <li>
                     Worked effectively with senior systems engineers,
                     developers, software owners (IT and business customers),
                     production support teams, project managers, and senior
                     managers
+                  </li>
+                  <li>
+                    Provided 24x7 support for IBM’s Websphere Application Server
+                    (WAS6.1, 7.x, 8.x), IBMIHS, Weblogic, IIS,Tomcat,
+                    Siteminder, LDAP, BigIP, Teradata, Splunk, AppDynamics,
+                    Introscope
                   </li>
                 </ul>
               </div>
@@ -284,16 +324,27 @@ class Right extends Component {
                 </div>
                 <div className="duration">Nov. 2008 &mdash; Oct. 2011</div>
                 <div className="title">Application Support Engineer</div>
-                <ul className="description">
+                <ul>
                   <li>
                     Maintained, monitored, and supported UNIX/Linux Apps with
                     Oracle Database servers
                   </li>
                   <li>
-                    Deployment manager for application and database releases and
-                    upgrades
+                    Performed Oracle Database Administration (DBA) tasks to
+                    monitor and maintain system health
                   </li>
-                  <li>Project manager for system maintenance and upgrades</li>
+                  <li>
+                    Reviewed and tuned SQL queries to increase system
+                    performance
+                  </li>
+                  <li>
+                    Managed the deployment of software components into QA, UAT,
+                    Pre-Prod, and Production environments
+                  </li>
+                  <li>
+                    Developed scripts on Solaris Unix and Red Hat Linux using
+                    bash and ksh to automate App management
+                  </li>
                 </ul>
               </div>
 
@@ -335,12 +386,12 @@ class Right extends Component {
                     and performance reviews
                   </li>
                   <li>
-                    Maintained staffing and resource management for major
-                    datacenters in Massachusetts
+                    Maintained staffing and resource management for major data
+                    centers in Massachusetts
                   </li>
                   <li>
-                    Problem management, post mortem analysis, and root cause
-                    analysis
+                    Lead problem management, post mortem analysis, and root
+                    cause analysis
                   </li>
                 </ul>
               </div>
@@ -352,16 +403,12 @@ class Right extends Component {
                 <div className="title">Application Support Engineer</div>
                 <ul className="description">
                   <li>
-                    Provided third tier support for a real-time enterprise
-                    online data delivery application in 24x7 environment
+                    Provided 3rd tier support for a real-time enterprise online
+                    data delivery application in 24x7 environment
                   </li>
                   <li>
-                    Deployment Management responsibilities which includes
-                    planning, implementation, and reporting
-                  </li>
-                  <li>
-                    Ensured all service level agreements are met for all global
-                    clients
+                    Deployment Management responsibilities including planning,
+                    implementation, and reporting
                   </li>
                   <li>
                     Created and maintained shell and Perl scripts via AutoSys
