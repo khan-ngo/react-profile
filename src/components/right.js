@@ -43,6 +43,21 @@ class Right extends Component {
                   Postman, JMeter, AppDynamics, Splunk, Unix/Linux, bash, Agile
                 </span>
               </div>
+
+              <div className="skill-category">
+                <strong>Certifications: &nbsp;</strong>
+                <ul className="description">
+                  <li>AWS Certified Cloud Practitioner</li>
+                  <li>CompTia A+</li>
+                  <li>
+                    IT Information Library (ITIL) Foundations Certification
+                  </li>
+                  <li>Splunk Certified Knowledge Manager</li>
+                  <li>Splunk Certified Power User</li>
+                  <li>Splunk Certified Admin</li>
+                  <li>Splunk Certified Architect 6.3</li>
+                </ul>
+              </div>
             </div>
           </div>
           {/* Education Section */}
