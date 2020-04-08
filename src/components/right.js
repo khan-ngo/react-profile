@@ -324,7 +324,7 @@ class Right extends Component {
                 </div>
                 <div className="duration">Nov. 2008 &mdash; Oct. 2011</div>
                 <div className="title">Application Support Engineer</div>
-                <ul>
+                <ul className="description">
                   <li>
                     Maintained, monitored, and supported UNIX/Linux Apps with
                     Oracle Database servers
