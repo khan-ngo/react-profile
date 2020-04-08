@@ -52,10 +52,11 @@ class Right extends Component {
                   <li>
                     IT Information Library (ITIL) Foundations Certification
                   </li>
+                  <li>Splunk Certified Architect 6.3</li>
+                  <li>Splunk Certified Admin</li>
+
                   <li>Splunk Certified Knowledge Manager</li>
                   <li>Splunk Certified Power User</li>
-                  <li>Splunk Certified Admin</li>
-                  <li>Splunk Certified Architect 6.3</li>
                 </ul>
               </div>
             </div>
