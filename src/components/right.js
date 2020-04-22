@@ -127,7 +127,7 @@ class Right extends Component {
                   <div className="duration">Feb. 2020 &mdash; March 2020</div>
                 </div>
                 <div className="title">
-                  Software Engineer Co-op (Contractor)
+                  Web Operations Engineer (Contractor)
                 </div>
                 <ul className="description">
                   <li>
